@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Bercelli]]></title>
         <description><![CDATA[Bercelli]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bercelli/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 17:01:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 Nov 2015 17:02:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bercelli/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/bercelli/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">241f7ef0-2897-434f-94ee-5ea0472490cf</guid>
+            <pubDate>Tue, 03 Nov 2015 17:01:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df57176a-eba3-499c-8e33-48dc20c5537d.jpg">]]></description>
-            <link>undefined2c98699c-087f-4896-9168-f1e4b119ef3e/index.html</link>
+            <link>https://thegrid.ai/bercelli/2c98699c-087f-4896-9168-f1e4b119ef3e/index.html</link>
             <guid isPermaLink="false">2c98699c-087f-4896-9168-f1e4b119ef3e</guid>
             <pubDate>Tue, 03 Nov 2015 17:01:37 GMT</pubDate>
         </item>
